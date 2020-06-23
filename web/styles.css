@@ -2,6 +2,7 @@ html,
 body {
     height: 100%;
     width: 100%;
+    background-color: #FC7753;
 }
 
 .center {
@@ -40,7 +41,7 @@ body {
     display: block;
     width: 25%;
     height: 25%;
-    background-color: #00F;
+    background-color: #66D7D1;
     border-radius: 100%;
     animation: sk-chase-dot-before 2.0s infinite ease-in-out both;
 }
